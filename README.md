@@ -1,4 +1,4 @@
-# Mini_Search_Engine
+# Deep Ocean
 It is a mini search engine using Python
 
 The project contain 4 python programs
